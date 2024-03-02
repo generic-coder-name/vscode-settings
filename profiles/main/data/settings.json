@@ -1,0 +1,43 @@
+{
+  "workbench.iconTheme": "catppuccin-frappe",
+  "workbench.colorTheme": "Bearded Theme Surprising Blueberry",
+  "terminal.integrated.ignoreProcessNames": [
+    "starship",
+    "oh-my-posh",
+    "bash",
+    "zsh",
+    "nu"
+  ],
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "bash",
+      "icon": "terminal-bash"
+    },
+    "zsh": {
+      "path": "zsh"
+    },
+    "fish": {
+      "path": "fish"
+    },
+    "tmux": {
+      "path": "tmux",
+      "icon": "terminal-tmux"
+    },
+    "pwsh": {
+      "path": "pwsh",
+      "icon": "terminal-powershell"
+    },
+    "nu": {
+      "path": "/home/generic/.cargo/bin/nu"
+    }
+  },
+  "terminal.integrated.defaultProfile.linux": "nu",
+  "projectManager.git.baseFolders": ["/home/generic/Projects"],
+  "git.suggestSmartCommit": false,
+  "git.autofetch": true,
+  "redhat.telemetry.enabled": false,
+  "window.zoomLevel": 1,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "sync.gist": ""
+}

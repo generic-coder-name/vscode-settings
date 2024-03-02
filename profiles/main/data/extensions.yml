@@ -1,0 +1,46 @@
+disabled: []
+enabled:
+  - id: alefragnani.project-manager
+    uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
+  - id: BeardedBear.beardedtheme
+    uuid: d1818e93-bccc-4812-8b8b-37aabc5a7a94
+  - id: bungcip.better-toml
+    uuid: 464f4ac7-af65-4aa9-9907-4ba7fa419085
+  - id: Cardinal90.multi-cursor-case-preserve
+    uuid: 5ac3c77e-2779-4be6-95b6-73092c7138ae
+  - id: Catppuccin.catppuccin-vsc-icons
+    uuid: 625b9abd-dfac-405b-bf34-e65f46e2f22f
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: edwinhuish.better-comments-next
+    uuid: fbacb7e9-e750-49db-a1c0-d94617178938
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: hbenl.test-adapter-converter
+    uuid: fcc7f3d5-c349-4329-85ab-4760fc641520
+  - id: hbenl.vscode-test-explorer
+    uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
+  - id: jeanp413.open-remote-ssh
+    uuid: 9fc16cea-08e2-4ae5-bf75-224004d722ff
+  - id: jgclark.vscode-todo-highlight
+    uuid: 4b3f0982-ad12-491b-b1b2-098f42c230af
+  - id: llvm-vs-code-extensions.vscode-clangd
+    uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
+  - id: redhat.java
+    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: rust-lang.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
+  - id: vivaxy.vscode-conventional-commits
+    uuid: b6b26bce-33f4-4bce-bf92-89812388ed0a
+  - id: vscjava.vscode-java-debug
+    uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
+  - id: vscjava.vscode-java-dependency
+    uuid: 7865e561-1c83-410e-9b99-aabada597a7e
+  - id: vscjava.vscode-java-test
+    uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
+  - id: vscjava.vscode-maven
+    uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
+  - id: wix.vscode-import-cost
+    uuid: c46b0018-f317-4b6c-a785-d2039b27338f
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
