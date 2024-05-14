@@ -38,6 +38,17 @@
   "redhat.telemetry.enabled": false,
   "window.zoomLevel": 1,
   "editor.tabSize": 2,
+  "sync.gist": "",
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "svelte.enable-ts-plugin": true,
   "editor.formatOnSave": true,
-  "sync.gist": ""
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  }
 }

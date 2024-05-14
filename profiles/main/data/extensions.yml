@@ -2,6 +2,8 @@ disabled: []
 enabled:
   - id: alefragnani.project-manager
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
+  - id: astro-build.astro-vscode
+    uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
   - id: BeardedBear.beardedtheme
     uuid: d1818e93-bccc-4812-8b8b-37aabc5a7a94
   - id: bungcip.better-toml
@@ -16,6 +18,8 @@ enabled:
     uuid: fbacb7e9-e750-49db-a1c0-d94617178938
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: GitHub.copilot
+    uuid: null
   - id: hbenl.test-adapter-converter
     uuid: fcc7f3d5-c349-4329-85ab-4760fc641520
   - id: hbenl.vscode-test-explorer
@@ -26,10 +30,14 @@ enabled:
     uuid: 4b3f0982-ad12-491b-b1b2-098f42c230af
   - id: llvm-vs-code-extensions.vscode-clangd
     uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
+  - id: redhat.fabric8-analytics
+    uuid: efcb43ca-77e6-43e4-8ddc-ada617cb34bd
   - id: redhat.java
     uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
   - id: rust-lang.rust-analyzer
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
+  - id: svelte.svelte-vscode
+    uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
   - id: vivaxy.vscode-conventional-commits
     uuid: b6b26bce-33f4-4bce-bf92-89812388ed0a
   - id: vscjava.vscode-java-debug
