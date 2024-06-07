@@ -1,6 +1,6 @@
 {
   "workbench.iconTheme": "catppuccin-frappe",
-  "workbench.colorTheme": "Bearded Theme Surprising Blueberry",
+  "workbench.colorTheme": "Monospace IDX Dark",
   "terminal.integrated.ignoreProcessNames": [
     "starship",
     "oh-my-posh",
